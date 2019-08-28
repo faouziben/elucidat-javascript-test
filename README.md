@@ -12,7 +12,7 @@ React developers, please use yarn rather than npm and please do not eject the cr
 
 Guidance:
 
-Understanding that time may be a constraint for some, please focus on writing clean, maintainable and testable code rather than going overboard on UI design.
+We recommend you spend around 2 hours on this challenge.  Understanding that time may be a constraint for some, please focus on writing clean, maintainable and testable code rather than going overboard on UI design.
 
 
 ## Backend Focus test
